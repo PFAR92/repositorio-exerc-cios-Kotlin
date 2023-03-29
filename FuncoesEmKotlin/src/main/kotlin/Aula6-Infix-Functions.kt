@@ -12,7 +12,7 @@ fun main() {
     val sophia = Person3("Sophia")
     val claudia = Person3("Claudia")
     sophia likes claudia
-    
+
 }
 
 class Person3(val name: String) {
